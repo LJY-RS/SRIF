@@ -5,6 +5,6 @@
 --We also provide a multimodal dataset for research, which contains optical-optical, infrared-optical, SAR-optical, depth-optical, map-optical, and day-night pairs.
 
 --If it is helpful for you, please cite our paper:
-Multimodal Image Matching: A Scale-invariant Algorithm and An Open Dataset
+Li, Jiayuan, Qingwu Hu, and Yongjun Zhang. "Multimodal image matching: A scale-invariant algorithm and an open dataset." ISPRS Journal of Photogrammetry and Remote Sensing 204 (2023): 77-88.
 
 
